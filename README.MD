@@ -2,7 +2,7 @@ Live hosted link : https://task-manager-seyf.onrender.com/
 
 • Users can create, delete, and update tasks.
 
-• Basic frontend app created to support and maximize the utilization of API.
+• Basic frontend app created to utilize the RESTful API using vanilla JavaScript.
 
 • Custom error handles and mongoose schema validations are set up to improve code quality and overall robustness.
 
