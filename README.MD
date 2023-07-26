@@ -1,4 +1,9 @@
-Live hosted link : https://task-manager-seyf.onrender.com/
+#### Live Link:
+
+https://task-manager-seyf.onrender.com/ (hosted on render)
+{Do wait for 30-40 seconds as its a free tier setup and therefore it restarts the server after every inactive session}
+
+#### Description
 
 • Users can create, delete, and update tasks.
 
